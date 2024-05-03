@@ -1,8 +1,8 @@
 ﻿using NUnit.Framework;
-using WeatherApp;
+using Weather;
 using System.Text.Json;
 
-namespace WeatherApp.Tests
+namespace Weather.Tests
 {
     [TestFixture]
     public class WeatherInfoTests
