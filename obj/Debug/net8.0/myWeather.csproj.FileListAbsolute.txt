@@ -1,0 +1,14 @@
+C:\Users\Snow Library Student\Documents\weather\myWeather\bin\Debug\net8.0\myWeather.exe
+C:\Users\Snow Library Student\Documents\weather\myWeather\bin\Debug\net8.0\myWeather.deps.json
+C:\Users\Snow Library Student\Documents\weather\myWeather\bin\Debug\net8.0\myWeather.runtimeconfig.json
+C:\Users\Snow Library Student\Documents\weather\myWeather\bin\Debug\net8.0\myWeather.dll
+C:\Users\Snow Library Student\Documents\weather\myWeather\bin\Debug\net8.0\myWeather.pdb
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.AssemblyInfoInputs.cache
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.AssemblyInfo.cs
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.csproj.CoreCompileInputs.cache
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.dll
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\refint\myWeather.dll
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.pdb
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.genruntimeconfig.cache
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\ref\myWeather.dll
