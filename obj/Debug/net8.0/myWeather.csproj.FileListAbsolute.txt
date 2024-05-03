@@ -12,3 +12,5 @@ C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\refin
 C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.pdb
 C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.genruntimeconfig.cache
 C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\ref\myWeather.dll
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.csproj.AssemblyReference.cache
+C:\Users\Snow Library Student\Documents\weather\myWeather\obj\Debug\net8.0\myWeather.sourcelink.json
